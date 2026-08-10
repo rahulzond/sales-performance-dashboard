@@ -6,12 +6,6 @@ Interactive Excel dashboard that tracks sales KPIs, monthly trends, category and
 
 Sales teams need a quick way to see how revenue is performing across regions, products, and reps without digging through raw transaction data. This project turns a flat sales log into a self-service dashboard where a single filter selection updates every KPI and chart instantly.
 
-## Screenshot
-
-![Dashboard screenshot](screenshot.png)
-
-*(Replace `screenshot.png` with an actual screenshot of the Dashboard sheet before uploading — see instructions below.)*
-
 ## Features
 
 - **Interactive region filter** — a dropdown (All / North / South / East / West) drives every table and chart on the dashboard using dynamic `SUMIFS` / `COUNTIFS` formulas, simulating drill-down BI behavior natively in Excel
